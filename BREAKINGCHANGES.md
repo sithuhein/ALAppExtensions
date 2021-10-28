@@ -1,4 +1,5 @@
 # Breaking Changes
+## Adding a new section
 ### ...and how to resolve them
 This document contains a list of the breaking changes that we know were introduced since 2019 release wave 2. For each breaking change we’ve provided some information about what you need to do to your code so that it will compile again against the latest version of the System Application and Base Application in Business central.
 
